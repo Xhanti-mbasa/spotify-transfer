@@ -1,8 +1,8 @@
-# 🎵 Spotify Transfer Tool
+#  Spotify Transfer Tool
 
 A powerful Python tool to transfer liked songs and playlists between Spotify accounts with a user-friendly interface and robust error handling.
 
-## ✨ Features
+##  Features
 
 - **🎵 Liked Songs Transfer** - Transfer all your liked songs between accounts
 - **🎶 Playlist Transfer** - Copy entire playlists with all tracks
